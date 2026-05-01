@@ -5,7 +5,7 @@ Analysis of crypto trading behavior and profitability across different market se
 ## Setup
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn streamlit
+pip install pandas numpy matplotlib seaborn scikit-learn 
 ```
 
 ## Files
