@@ -12,11 +12,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 | File | Description |
 |------|-------------|
-| `assignment.py` | Data loading, cleaning, timestamp alignment, key metrics |
-| `assignment_q2.py` | Performance & behavior analysis by sentiment |
-| `assignment_q3.py` | Strategy recommendations |
-| `model_clustering.py` | Predictive model + trader clustering |
-| `dashboard.py` | Streamlit dashboard |
+| `Assignment_Q1.ipynb` | Data loading, cleaning, timestamp alignment, key metrics |
+| `Assignment_Q2.ipynb` | Performance & behavior analysis by sentiment |
+| `Assignment_Q3.ipynb` | Strategy recommendations and Predictive model + trader clustering|
 | `writeup.md` | Methodology, insights, strategy summary |
 
 ## How to Run
