@@ -20,20 +20,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## How to Run
 
 **Option A — Google Colab**
-1. Upload all `.py` files and both CSVs to Colab
-2. Run in order: `assignment.py` → `assignment_q2.py` → `assignment_q3.py` → `model_clustering.py`
+1. Upload all `.ipynb` files and both CSVs to Colab
+2. Run in order: `Assignment_Q1.ipynb` → `Assignment_Q2.ipynb` → `Assignment_Q3.ipynb`
 
-**Option B — Locally**
-```bash
-# run analysis
-python assignment.py
-python assignment_q2.py
-python assignment_q3.py
-python model_clustering.py
-
-# run dashboard (after model_clustering.py generates the CSVs)
-streamlit run dashboard.py
-```
 
 ## Data
 
